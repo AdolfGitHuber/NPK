@@ -1,0 +1,6 @@
+cmake
+dlib
+face_recogition
+loguru
+transliterate
+opencv-python
